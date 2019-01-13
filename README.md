@@ -16,6 +16,10 @@
    
 </details>
 
+## 数学知识
+
+* 看见统计: <https://seeing-theory.brown.edu/cn.html>
+
 ## 常用工具
 
 <details>
